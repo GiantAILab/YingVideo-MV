@@ -12,6 +12,18 @@
 
 ---
 
+
+## 🎬 Introduction Video
+
+<p align="center">
+  <video width="720" controls>
+    <source src="https://huggingface.co/GiantAILab/QianYing_model_demos/resolve/main/YingVideo-MV_demo.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</p>
+
+---
+
 ## Overview ✨
 
 <p align="center">
