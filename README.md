@@ -1,4 +1,4 @@
-# YingVideo-MV: Agent-Based Music-Driven Video Generation
+# YingVideo-MV: Music-Driven Multi-Stage Video Generation
 
 ---
 
