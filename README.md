@@ -49,7 +49,7 @@
 ---
 
 ## News & Updates 🗞️
-- **2025-11-25**: Released technical report
+- **2025-11-27**: Released technical report
 
 ---
 
