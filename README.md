@@ -1,6 +1,6 @@
 # YingVideo-MV: Music-Driven Multi-Stage Video Generation
 
----
+
 
 <div align="center">
 
@@ -9,6 +9,12 @@
 
 
 </div>
+
+
+
+## 🎬 Introduction Video
+
+https://github.com/user-attachments/assets/ab778888-8a1d-4480-b0a2-c8f9136e9da1
 
 
 
