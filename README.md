@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Paper](https://img.shields.io/badge/Paper-YingVideo--MV-blue)](tech_report/YingVideo-MV-Tech_Report.pdf)
+[![Paper](https://img.shields.io/badge/Paper-YingVideo--MV-blue)](https://arxiv.org/pdf/2512.02492)
 [![Project](https://img.shields.io/badge/Project-Page-yellow)](https://giantailab.github.io/YingVideo-MV/)
 
 
