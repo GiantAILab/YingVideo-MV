@@ -72,25 +72,22 @@ https://github.com/user-attachments/assets/ab778888-8a1d-4480-b0a2-c8f9136e9da1
 
 [//]: # ()
 [//]: # ()
-[//]: # (## Citation 🧾)
+## Citation 🧾
 
-[//]: # ()
-[//]: # (If you use YingVideo-MV for research, please cite:)
 
-[//]: # ()
-[//]: # (```)
+If you use YingVideo-MV for research, please cite:
 
-[//]: # (@article{yingvideo_smv_2025,)
 
-[//]: # (  title={YingVideo-MV: Agent-Based Music-Driven Video Generation},)
+```
 
-[//]: # (  author={Giant AI Lab},)
+@article{chen2025yingvideo,
+  title={YingVideo-MV: Music-Driven Multi-Stage Video Generation},
+  author={Chen, Jiahui and Wang, Weida and Shi, Runhua and Yang, Huan and Ding, Chaofan and Chen, Zihao},
+  journal={arXiv preprint arXiv:2512.02492},
+  year={2025}
+}
 
-[//]: # (  year={2025})
-
-[//]: # (})
-
-[//]: # (```)
+```
 
 ---
 
